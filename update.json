@@ -1,9 +1,9 @@
 {
   "version": "1.5.9",
-  "notes": "视频解析重构；邮件只保留7天；改模区免费模型入口；Unity自动生成。",
-  "published": "2026-10-28T00:40:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9.exe",
-  "sha256": "1703b380cb6799c11e3dadd3bee15042c727fd9be2bb560d2a01e723b5e26b66",
-  "size": 184700136
+  "notes": "新版视频解析移到社区页；删除旧短链工具；邮件7天；免费模型；Unity自动生成。",
+  "published": "2026-10-28T00:55:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9-final.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9-final.exe",
+  "sha256": "edad3de6b32a208443e6fa08e94cb2c24463800de5bd363e02cf4e85b21b8735",
+  "size": 184698485
 }
