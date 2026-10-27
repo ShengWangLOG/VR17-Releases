@@ -1,9 +1,9 @@
 {
-  "version": "1.5.8",
-  "notes": "云岫问道全屏与 UI 优化；启动器连接优化；公共相册与社交 SQL。",
-  "published": "2026-10-27T18:55:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.8/VRChaohui-Portable-1.5.8.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.8/VRChaohui-Portable-1.5.8.exe",
-  "sha256": "0d7f460ba24b3e391d2eb9d7226e1190e667abd12f9afb225e7579cba0ef6aee",
-  "size": 184699048
+  "version": "1.5.9",
+  "notes": "视频解析重构；邮件只保留7天；改模区免费模型入口；Unity自动生成。",
+  "published": "2026-10-28T00:40:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.5.9/VRChaohui-Portable-1.5.9.exe",
+  "sha256": "1703b380cb6799c11e3dadd3bee15042c727fd9be2bb560d2a01e723b5e26b66",
+  "size": 184700136
 }
