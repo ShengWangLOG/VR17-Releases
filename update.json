@@ -1,9 +1,9 @@
 {
-  "version": "1.6.4",
-  "notes": "成员墙历史照片/视频迁移到服务器。",
-  "published": "2026-11-02T06:20:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.4/VRChaohui-Portable-1.6.4.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.4/VRChaohui-Portable-1.6.4.exe",
-  "sha256": "3fead04565f0b7e6694fc8b0bd41aec4c95782ed1fe61ded2d806a125c973200",
-  "size": 188157614
+  "version": "1.6.5",
+  "notes": "所有邮箱账号支持验证码免密登录。",
+  "published": "2026-11-02T06:33:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.5/VRChaohui-Portable-1.6.5.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.5/VRChaohui-Portable-1.6.5.exe",
+  "sha256": "e596ababc57a1f69f54cdbf7de10bd735f6a87eeb48b9770444badd727c761f6",
+  "size": 188174173
 }
