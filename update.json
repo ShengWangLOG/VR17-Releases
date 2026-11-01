@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "notes": "雾都 1.2.2、PROJECT 416 新游戏、相册照片/视频上云。",
-  "published": "2026-11-02T04:47:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.0/VRChaohui-Portable-1.6.0.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.0/VRChaohui-Portable-1.6.0.exe",
-  "sha256": "4cd753e398250772868d4596777f019b02efadcacebc39bf9d1112a65b8e22fb",
-  "size": 188153320
+  "version": "1.6.1",
+  "notes": "社区相册上传支持选择公共相册或独立相册。",
+  "published": "2026-11-02T05:11:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.1/VRChaohui-Portable-1.6.1.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.1/VRChaohui-Portable-1.6.1.exe",
+  "sha256": "c58835b699eaa13451f4f0176ba1088a6f15a1dc6e251c658c950887847c8a7d",
+  "size": 188153823
 }
