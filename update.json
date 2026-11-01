@@ -1,9 +1,9 @@
 {
-  "version": "1.6.2",
-  "notes": "登录/注册提速：会话先保存，资料后台补写，不阻塞界面。",
-  "published": "2026-11-02T05:24:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.2/VRChaohui-Portable-1.6.2.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.2/VRChaohui-Portable-1.6.2.exe",
-  "sha256": "44c48cefc5d80546235482e5e8f67f01eec44828d015079081ee4e9d1186643d",
-  "size": 188154606
+  "version": "1.6.3",
+  "notes": "社区成员墙图片/视频直传服务器，相册继续上云。",
+  "published": "2026-11-02T06:07:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.3/VRChaohui-Portable-1.6.3.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.3/VRChaohui-Portable-1.6.3.exe",
+  "sha256": "3b67f9d705805dc1dd1e39d1ba4e888f6cf07d4d75ba09b81999f21965dbe608",
+  "size": 188155947
 }
