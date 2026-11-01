@@ -1,9 +1,9 @@
 {
-  "version": "1.6.3",
-  "notes": "社区成员墙图片/视频直传服务器，相册继续上云。",
-  "published": "2026-11-02T06:07:00+08:00",
-  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.3/VRChaohui-Portable-1.6.3.exe",
-  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.3/VRChaohui-Portable-1.6.3.exe",
-  "sha256": "3b67f9d705805dc1dd1e39d1ba4e888f6cf07d4d75ba09b81999f21965dbe608",
-  "size": 188155947
+  "version": "1.6.4",
+  "notes": "成员墙历史照片/视频迁移到服务器。",
+  "published": "2026-11-02T06:20:00+08:00",
+  "installer": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.4/VRChaohui-Portable-1.6.4.exe",
+  "portable": "https://ghfast.top/https://github.com/ShengWangLOG/VR17-Releases/releases/download/v1.6.4/VRChaohui-Portable-1.6.4.exe",
+  "sha256": "3fead04565f0b7e6694fc8b0bd41aec4c95782ed1fe61ded2d806a125c973200",
+  "size": 188157614
 }
